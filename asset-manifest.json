@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/licresia_demo_app/static/css/main.837fec85.chunk.css",
-    "main.js": "/licresia_demo_app/static/js/main.a089e05d.chunk.js",
-    "main.js.map": "/licresia_demo_app/static/js/main.a089e05d.chunk.js.map",
+    "main.css": "/licresia_demo_app/static/css/main.4075b32b.chunk.css",
+    "main.js": "/licresia_demo_app/static/js/main.8ea90f7b.chunk.js",
+    "main.js.map": "/licresia_demo_app/static/js/main.8ea90f7b.chunk.js.map",
     "runtime-main.js": "/licresia_demo_app/static/js/runtime-main.44aaa8dd.js",
     "runtime-main.js.map": "/licresia_demo_app/static/js/runtime-main.44aaa8dd.js.map",
-    "static/js/2.ac96d1e9.chunk.js": "/licresia_demo_app/static/js/2.ac96d1e9.chunk.js",
-    "static/js/2.ac96d1e9.chunk.js.map": "/licresia_demo_app/static/js/2.ac96d1e9.chunk.js.map",
+    "static/js/2.3b3c9627.chunk.js": "/licresia_demo_app/static/js/2.3b3c9627.chunk.js",
+    "static/js/2.3b3c9627.chunk.js.map": "/licresia_demo_app/static/js/2.3b3c9627.chunk.js.map",
     "static/js/3.558cf509.chunk.js": "/licresia_demo_app/static/js/3.558cf509.chunk.js",
     "static/js/3.558cf509.chunk.js.map": "/licresia_demo_app/static/js/3.558cf509.chunk.js.map",
     "index.html": "/licresia_demo_app/index.html",
-    "static/css/main.837fec85.chunk.css.map": "/licresia_demo_app/static/css/main.837fec85.chunk.css.map",
-    "static/js/2.ac96d1e9.chunk.js.LICENSE.txt": "/licresia_demo_app/static/js/2.ac96d1e9.chunk.js.LICENSE.txt"
+    "static/css/main.4075b32b.chunk.css.map": "/licresia_demo_app/static/css/main.4075b32b.chunk.css.map",
+    "static/js/2.3b3c9627.chunk.js.LICENSE.txt": "/licresia_demo_app/static/js/2.3b3c9627.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.44aaa8dd.js",
-    "static/js/2.ac96d1e9.chunk.js",
-    "static/css/main.837fec85.chunk.css",
-    "static/js/main.a089e05d.chunk.js"
+    "static/js/2.3b3c9627.chunk.js",
+    "static/css/main.4075b32b.chunk.css",
+    "static/js/main.8ea90f7b.chunk.js"
   ]
 }
