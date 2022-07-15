@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/licresia_demo_app/static/css/main.837fec85.chunk.css",
-    "main.js": "/licresia_demo_app/static/js/main.97454014.chunk.js",
-    "main.js.map": "/licresia_demo_app/static/js/main.97454014.chunk.js.map",
+    "main.js": "/licresia_demo_app/static/js/main.88166c43.chunk.js",
+    "main.js.map": "/licresia_demo_app/static/js/main.88166c43.chunk.js.map",
     "runtime-main.js": "/licresia_demo_app/static/js/runtime-main.44aaa8dd.js",
     "runtime-main.js.map": "/licresia_demo_app/static/js/runtime-main.44aaa8dd.js.map",
     "static/js/2.5bfc6ca5.chunk.js": "/licresia_demo_app/static/js/2.5bfc6ca5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.44aaa8dd.js",
     "static/js/2.5bfc6ca5.chunk.js",
     "static/css/main.837fec85.chunk.css",
-    "static/js/main.97454014.chunk.js"
+    "static/js/main.88166c43.chunk.js"
   ]
 }
